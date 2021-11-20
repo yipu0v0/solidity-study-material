@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title A simulator for address book
-/// @author lightbird
 /// @notice Use it to store or get address base on current message sender
 /// @dev simple simulator, will not strictly check your address inputed
 /// @custom:learning This is an contract for solidity learning.
